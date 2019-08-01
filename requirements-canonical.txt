@@ -1,0 +1,9 @@
+fire
+python-dotenv
+black
+requests
+pytz
+python-dateutil
+tqdm
+tabulate
+terminaltables
